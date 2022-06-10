@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "154156717002",
+    "project_id": "janguask-55d05",
+    "storage_bucket": "janguask-55d05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154156717002:android:1c8100efcc6ad926b67533",
+        "android_client_info": {
+          "package_name": "com.example.u_arewa_studio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154156717002-8v5jtdc046hvo7dpcpfambos2cc2opb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA80jXCmq0JAcIYiontNvoj0XAC4VQaEUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154156717002-8v5jtdc046hvo7dpcpfambos2cc2opb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154156717002:android:2d59d94f2091a27db67533",
+        "android_client_info": {
+          "package_name": "com.janguask.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154156717002-8v5jtdc046hvo7dpcpfambos2cc2opb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA80jXCmq0JAcIYiontNvoj0XAC4VQaEUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154156717002-8v5jtdc046hvo7dpcpfambos2cc2opb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
